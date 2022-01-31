@@ -9,7 +9,7 @@ const AddCart = () => {
         totalItems,
         items,
         cartTotal,
-        updateItemQuantity,
+        // updateItemQuantity,
         removeItem,
         emptyCart
       } = useCart();
